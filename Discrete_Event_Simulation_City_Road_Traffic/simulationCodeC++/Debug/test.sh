@@ -1,0 +1,21 @@
+#!/bin/sh
+./peachTreeTrafficSimulation 21
+./peachTreeTrafficSimulation 22
+./peachTreeTrafficSimulation 23
+./peachTreeTrafficSimulation 24
+./peachTreeTrafficSimulation 25
+./peachTreeTrafficSimulation 26
+./peachTreeTrafficSimulation 27
+./peachTreeTrafficSimulation 28
+./peachTreeTrafficSimulation 29
+./peachTreeTrafficSimulation 30
+./peachTreeTrafficSimulation 31
+./peachTreeTrafficSimulation 32
+./peachTreeTrafficSimulation 33
+./peachTreeTrafficSimulation 34
+./peachTreeTrafficSimulation 35
+./peachTreeTrafficSimulation 36
+./peachTreeTrafficSimulation 37
+./peachTreeTrafficSimulation 38
+./peachTreeTrafficSimulation 39
+./peachTreeTrafficSimulation 40
